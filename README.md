@@ -1,6 +1,7 @@
 # react-redux-router-test
 I created this app to test out React, Redux and React Router while connecting them to external APIs.
-[DEMO](https://arnaskro.github.io/react-redux-router-test/)
+
+[DEMO HERE](https://arnaskro.github.io/react-redux-router-test/)
 
 # Pages
 The app contains 3 pages:
