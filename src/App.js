@@ -14,6 +14,10 @@ class App extends React.Component {
                 <div className="text-center">
                     <h1>App is ready!</h1>
                 </div>
+                <h1 className="text-center">Programmers</h1><br />
+                <Programmers />
+                <h1 className="text-center">Users</h1><br />
+                <Users />
             </div>
         );
     }
